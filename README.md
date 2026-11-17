@@ -5,5 +5,3 @@ Maintainer of the [Crypto Swap Index](https://github.com/petkapower/crypto-swap-
 How the index is verified: directory cross-checks (kycnot.me, OrangeFren, Swapzone, Monerica, BestChange), each service's own terms and AML pages, and dated liveness re-checks. 115 live services at the last full pass, 17 November 2026.
 
 Also building [CryptoSwap](https://cryptoswap.is), a non-custodial, no-KYC swap interface: DEX and bridge routed, you sign from your own wallet, we never hold your coins.
-
-Contact: petka@cryptoswap.is
